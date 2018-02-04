@@ -1,0 +1,6 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\arraysNew\naiSreshtanoChislo\bin\Debug\naiSreshtanoChislo.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\arraysNew\naiSreshtanoChislo\bin\Debug\naiSreshtanoChislo.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\arraysNew\naiSreshtanoChislo\bin\Debug\naiSreshtanoChislo.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\arraysNew\naiSreshtanoChislo\obj\Debug\naiSreshtanoChislo.csprojResolveAssemblyReference.cache
+C:\Users\STUDENTS\Desktop\NP_IT24\arraysNew\naiSreshtanoChislo\obj\Debug\naiSreshtanoChislo.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\arraysNew\naiSreshtanoChislo\obj\Debug\naiSreshtanoChislo.pdb

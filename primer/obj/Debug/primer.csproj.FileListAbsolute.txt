@@ -1,0 +1,6 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\arraysNew\primer\bin\Debug\primer.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\arraysNew\primer\bin\Debug\primer.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\arraysNew\primer\bin\Debug\primer.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\arraysNew\primer\obj\Debug\primer.csprojResolveAssemblyReference.cache
+C:\Users\STUDENTS\Desktop\NP_IT24\arraysNew\primer\obj\Debug\primer.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\arraysNew\primer\obj\Debug\primer.pdb

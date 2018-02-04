@@ -1,0 +1,5 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\arraysNew\clear\bin\Debug\clear.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\arraysNew\clear\bin\Debug\clear.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\arraysNew\clear\bin\Debug\clear.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\arraysNew\clear\obj\Debug\clear.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\arraysNew\clear\obj\Debug\clear.pdb
